@@ -1,2 +1,2 @@
 # Ethereum-Pet-SHop
-This is an Ethereum Pet Shop model. It also uses Metamask and Truffle.
+This is an Ethereum Pet Shop model. It also uses Solidity, Metamask and Truffle.
